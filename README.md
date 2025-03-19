@@ -8,7 +8,8 @@ I am currently learning :
 - Snakemake
 - Anvi'o ([Oldenburg 2025 workshop participant](https://anvio.org/workshops/2025-oldenburg/#list-of-participants))
 
-I am a postgrad student in [Environmental Microbiology and Health]() at the Muséum National d'Histoire Naturelle & Sorbonne Université, France
+I am a postgrad student in [Environmental Microbiology and Health]() at the Muséum National d'Histoire Naturelle & Sorbonne Université, France. 
+I am currently completing my Maxter thesis at the Max-Planck Institute for Marine Microbiology, studying the microbial community of polar sandy sediments. 
 <!--
 **garancegl/garancegl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
