@@ -1,5 +1,14 @@
 ## Hi there 👋
+I am intrested in: 
+- Marine & environmental microbiology
+- Meta-genomics
+- Meta-transcriptomics
 
+I am currently learning : 
+- Snakemake
+- Anvi'o ([Oldenburg 2025 workshop participant](https://anvio.org/workshops/2025-oldenburg/#list-of-participants))
+
+I am a postgrad student in [Environmental Microbiology and Health]() at the Muséum National d'Histoire Naturelle & Sorbonne Université, France
 <!--
 **garancegl/garancegl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
