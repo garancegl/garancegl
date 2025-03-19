@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am intrested in: 
+I am interested in: 
 - Marine & environmental microbiology
 - Meta-genomics
 - Meta-transcriptomics
